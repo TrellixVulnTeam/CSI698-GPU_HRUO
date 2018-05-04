@@ -1,0 +1,26 @@
+<annotation>
+  <folder>01-19-2018-08-26 Clifton Park SNOW</folder>
+  <filename>frame1055</filename>
+  <path>C:\Users\Abhilash Reddy M\Desktop\datamining\CTG\labelledImages\01-19-2018-08-26 Clifton Park SNOW\frame1055.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Ploughed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>29</xmin>
+      <ymin>395</ymin>
+      <xmax>150</xmax>
+      <ymax>432</ymax>
+    </bndbox>
+  </object>
+</annotation>
