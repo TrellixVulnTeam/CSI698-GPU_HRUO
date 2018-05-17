@@ -1,3 +1,4 @@
+
 # TensorFlow Models
 
 This repository contains a number of different models implemented in [TensorFlow](https://tensorflow.org):
@@ -7,3 +8,8 @@ The [official models](official) are a collection of example models that use Tens
 The [research models](research) are a large collection of models implemented in TensorFlow by researchers.
 
 The [tutorial models](tutorials) are models described in the [TensorFlow tutorials](https://www.tensorflow.org/tutorials/).
+
+# Task - To detect Plowed or Unplowed driveway using Google tensorflow's object detection API
+
+Follow this link for the detailed report 
+
